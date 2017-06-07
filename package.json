@@ -1,0 +1,19 @@
+{
+  "name": "test-modules",
+  "version": "0.0.1",
+  "description": "Estrutura simples para realizar a importação de módulos codificados com Typescript utilizando a estratégia do SystemJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "keywords": [
+    "test",
+    "module",
+    "systemjs"
+  ],
+  "author": "Gabriel Angelus",
+  "license": "ISC",
+  "dependencies": {
+    "systemjs": "^0.20.13"
+  }
+}
